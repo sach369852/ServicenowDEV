@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>MYDEVWORK</name>
+        <order/>
+        <roles>x_74663_mydevwork.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-12 12:03:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0fbbf4e8dbb12300042a85184b9619f7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MYDEVWORK</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MYDEVWORK" source="x_74663_mydevwork">83bbb8a8db712300042a85184b96198f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MYDEVWORK">83bbb8a8db712300042a85184b96198f</sys_scope>
+        <sys_update_name>sys_app_application_0fbbf4e8dbb12300042a85184b9619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-12 12:03:59</sys_updated_on>
+        <title>MYDEVWORK</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
