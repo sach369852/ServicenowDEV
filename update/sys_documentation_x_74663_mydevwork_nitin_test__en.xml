@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="nitin test" language="en" table="x_74663_mydevwork_nitin_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>nitin test</label>
+            <language>en</language>
+            <name>x_74663_mydevwork_nitin_test</name>
+            <plural>nitin tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-12 12:09:19</sys_created_on>
+            <sys_id>1dfcb42cdbb12300042a85184b9619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>nitin test</sys_name>
+            <sys_package display_value="MYDEVWORK" source="x_74663_mydevwork">83bbb8a8db712300042a85184b96198f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MYDEVWORK">83bbb8a8db712300042a85184b96198f</sys_scope>
+            <sys_update_name>sys_documentation_x_74663_mydevwork_nitin_test__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-12 12:09:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

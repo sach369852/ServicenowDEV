@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-12 12:09:18</sys_created_on>
+        <sys_id>19fcb42cdbb12300042a85184b961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_74663_mydevwork_nitin_test.x_74663_mydevwork.user</sys_name>
+        <sys_package display_value="MYDEVWORK" source="x_74663_mydevwork">83bbb8a8db712300042a85184b96198f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MYDEVWORK">83bbb8a8db712300042a85184b96198f</sys_scope>
+        <sys_security_acl display_value="x_74663_mydevwork_nitin_test">19fcb42cdbb12300042a85184b961988</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_19fcb42cdbb12300042a85184b961997</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-12 12:09:18</sys_updated_on>
+        <sys_user_role display_value="x_74663_mydevwork.user" name="x_74663_mydevwork.user">87bbf4e8dbb12300042a85184b9619fa</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

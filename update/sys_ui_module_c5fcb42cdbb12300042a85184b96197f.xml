@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="MYDEVWORK">81fcfce8dbb12300042a85184b9619ee</application>
+        <filter/>
+        <name>nitin tests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_74663_mydevwork.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-12 12:09:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c5fcb42cdbb12300042a85184b96197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>nitin tests</sys_name>
+        <sys_package display_value="MYDEVWORK" source="x_74663_mydevwork">83bbb8a8db712300042a85184b96198f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MYDEVWORK">83bbb8a8db712300042a85184b96198f</sys_scope>
+        <sys_update_name>sys_ui_module_c5fcb42cdbb12300042a85184b96197f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-12 12:09:18</sys_updated_on>
+        <table>x_74663_mydevwork_nitin_test</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
